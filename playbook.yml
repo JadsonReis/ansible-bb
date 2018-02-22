@@ -1,0 +1,6 @@
+---
+
+- hosts: all
+  tasks:
+    - name: "Teste playbook"
+      command: echo "Teste"
